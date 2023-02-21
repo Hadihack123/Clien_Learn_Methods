@@ -5,6 +5,6 @@
   },
   {
     "Tasle_mohem": "1",
-    "Tdovom_mohem": "2"
+    "Tdovom_mohem": "10"
   }
 ]
