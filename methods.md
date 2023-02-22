@@ -1,7 +1,7 @@
 [
   {
     "Tasle": "1",
-    "Tdovom": "2"
+    "Tdovom": "Arianabase"
   },
   {
     "Tasle": "1",
